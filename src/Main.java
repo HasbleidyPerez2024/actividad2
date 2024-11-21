@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        ArrayList<Jugador> jugadores = new ArrayList<>();
+        ArrayList<Jugador> jugadores = new ArrayList<>(); //creamos un objeto de tipo arraylist de la clase Jugador
         Scanner teclado = new Scanner(System.in);
         int opcion;
 
